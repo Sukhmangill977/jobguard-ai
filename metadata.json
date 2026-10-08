@@ -1,0 +1,7 @@
+{
+  "name": "JobGuard AI",
+  "description": "AI-powered job and recruitment scam risk analyzer. Before you trust a job offer, verify it.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
